@@ -1,0 +1,6 @@
+[submodule "ch4/Sophus"]
+	path = ch4/Sophus
+	url = https://github.com/strasdat/Sophus.git
+[submodule "ch5/opencv"]
+	path = ch5/opencv
+	url = https://github.com/opencv/opencv.git
