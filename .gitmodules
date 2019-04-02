@@ -4,3 +4,6 @@
 [submodule "ch5/opencv"]
 	path = ch5/opencv
 	url = https://github.com/opencv/opencv.git
+[submodule "ch5/pcl"]
+	path = ch5/pcl
+	url = https://github.com/PointCloudLibrary/pcl
