@@ -4,6 +4,6 @@
 [submodule "ch5/opencv"]
 	path = ch5/opencv
 	url = https://github.com/opencv/opencv.git
-[submodule "ch5/pcl"]
-	path = ch5/pcl
-	url = https://github.com/PointCloudLibrary/pcl
+[submodule "ch6/ceres"]
+	path = ch6/ceres
+	url = https://ceres-solver.googlesource.com/ceres-solver
